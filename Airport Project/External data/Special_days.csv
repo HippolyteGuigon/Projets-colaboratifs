@@ -1,0 +1,971 @@
+﻿";Date;Holiday;;;;"
+
+"0;31/12/10;New Year's Day;;;;"
+
+"1;17/01/11;Birthday of Martin Luther King, Jr.;;;;"
+
+"2;21/02/11;Washington's Birthday;;;;"
+
+"3;30/05/11;Memorial Day;;;;"
+
+"4;04/07/11;Independence Day;;;;"
+
+"5;05/09/11;Labor Day;;;;"
+
+"6;10/10/11;Columbus Day;;;;"
+
+"7;11/11/11;Veterans Day;;;;"
+
+"8;24/11/11;Thanksgiving Day;;;;"
+
+"9;26/12/11;Christmas Day;;;;"
+
+"10;02/01/12;New Year's Day;;;;"
+
+"11;16/01/12;Birthday of Martin Luther King, Jr.;;;;"
+
+"12;20/02/12;Washington's Birthday;;;;"
+
+"13;28/05/12;Memorial Day;;;;"
+
+"14;04/07/12;Independence Day;;;;"
+
+"15;03/09/12;Labor Day;;;;"
+
+"16;08/10/12;Columbus Day;;;;"
+
+"17;12/11/12;Veterans Day;;;;"
+
+"18;22/11/12;Thanksgiving Day;;;;"
+
+"19;25/12/12;Christmas Day;;;;"
+
+"20;01/01/13;New Year's Day;;;;"
+
+"21;21/01/13;Birthday of Martin Luther King, Jr.;;;;"
+
+"22;18/02/13;Washington's Birthday;;;;"
+
+"23;27/05/13;Memorial Day;;;;"
+
+"24;04/07/13;Independence Day;;;;"
+
+"25;02/09/13;Labor Day;;;;"
+
+"26;14/10/13;Columbus Day;;;;"
+
+"27;11/11/13;Veterans Day;;;;"
+
+"28;28/11/13;Thanksgiving Day;;;;"
+
+"29;25/12/13;Christmas Day;;;;"
+
+"30;01/01/14;New Year's Day;;;;"
+
+"31;20/01/14;Birthday of Martin Luther King, Jr.;;;;"
+
+"32;17/02/14;Washington's Birthday;;;;"
+
+"33;26/05/14;Memorial Day;;;;"
+
+"34;04/07/14;Independence Day;;;;"
+
+"35;01/09/14;Labor Day;;;;"
+
+"36;13/10/14;Columbus Day;;;;"
+
+"37;11/11/14;Veterans Day;;;;"
+
+"38;27/11/14;Thanksgiving Day;;;;"
+
+"39;25/12/14;Christmas Day;;;;"
+
+"40;01/01/15;New Year's Day;;;;"
+
+"41;19/01/15;Birthday of Martin Luther King, Jr.;;;;"
+
+"42;16/02/15;Washington's Birthday;;;;"
+
+"43;25/05/15;Memorial Day;;;;"
+
+"44;03/07/15;Independence Day;;;;"
+
+"45;07/09/15;Labor Day;;;;"
+
+"46;12/10/15;Columbus Day;;;;"
+
+"47;11/11/15;Veterans Day;;;;"
+
+"48;26/11/15;Thanksgiving Day;;;;"
+
+"49;25/12/15;Christmas Day;;;;"
+
+"50;01/01/16;New Year's Day;;;;"
+
+"51;18/01/16;Birthday of Martin Luther King, Jr.;;;;"
+
+"52;15/02/16;Washington's Birthday;;;;"
+
+"53;30/05/16;Memorial Day;;;;"
+
+"54;04/07/16;Independence Day;;;;"
+
+"55;05/09/16;Labor Day;;;;"
+
+"56;10/10/16;Columbus Day;;;;"
+
+"57;11/11/16;Veterans Day;;;;"
+
+"58;24/11/16;Thanksgiving Day;;;;"
+
+"59;26/12/16;Christmas Day;;;;"
+
+"60;02/01/17;New Year's Day;;;;"
+
+"61;16/01/17;Birthday of Martin Luther King, Jr.;;;;"
+
+"62;20/02/17;Washington's Birthday;;;;"
+
+"63;29/05/17;Memorial Day;;;;"
+
+"64;04/07/17;Independence Day;;;;"
+
+"65;04/09/17;Labor Day;;;;"
+
+"66;09/10/17;Columbus Day;;;;"
+
+"67;10/11/17;Veterans Day;;;;"
+
+"68;23/11/17;Thanksgiving Day;;;;"
+
+"69;25/12/17;Christmas Day;;;;"
+
+"70;01/01/18;New Year's Day;;;;"
+
+"71;15/01/18;Birthday of Martin Luther King, Jr.;;;;"
+
+"72;19/02/18;Washington's Birthday;;;;"
+
+"73;28/05/18;Memorial Day;;;;"
+
+"74;04/07/18;Independence Day;;;;"
+
+"75;03/09/18;Labor Day;;;;"
+
+"76;08/10/18;Columbus Day;;;;"
+
+"77;12/11/18;Veterans Day;;;;"
+
+"78;22/11/18;Thanksgiving Day;;;;"
+
+"79;25/12/18;Christmas Day;;;;"
+
+"80;01/01/19;New Year's Day;;;;"
+
+"81;21/01/19;Birthday of Martin Luther King, Jr.;;;;"
+
+"82;18/02/19;Washington's Birthday;;;;"
+
+"83;27/05/19;Memorial Day;;;;"
+
+"84;04/07/19;Independence Day;;;;"
+
+"85;02/09/19;Labor Day;;;;"
+
+"86;14/10/19;Columbus Day;;;;"
+
+"87;11/11/19;Veterans Day;;;;"
+
+"88;28/11/19;Thanksgiving Day;;;;"
+
+"89;25/12/19;Christmas Day;;;;"
+
+"90;01/01/20;New Year's Day;;;;"
+
+"91;20/01/20;Birthday of Martin Luther King, Jr.;;;;"
+
+"92;17/02/20;Washington's Birthday;;;;"
+
+"93;25/05/20;Memorial Day;;;;"
+
+"94;03/07/20;Independence Day;;;;"
+
+"95;07/09/20;Labor Day;;;;"
+
+"96;12/10/20;Columbus Day;;;;"
+
+"97;11/11/20;Veterans Day;;;;"
+
+"98;26/11/20;Thanksgiving Day;;;;"
+
+"99;25/12/20;Christmas Day;;;;"
+
+"100;01/01/10;New Year‰Ûªs Day;;;;"
+
+"101;18/01/10;Martin Luther King, Jr. Day;;;;"
+
+"102;15/02/10;Washington‰Ûªs Birthday;;;;"
+
+"103;31/05/10;Memorial Day;;;;"
+
+"104;05/07/10;Independence Day;;;;"
+
+"105;06/09/10;Labor Day;;;;"
+
+"106;11/10/10;Columbus Day;;;;"
+
+"107;11/11/10;Veterans Day;;;;"
+
+"108;25/11/10;Thanksgiving Day;;;;"
+
+"109;25/12/10;Christmas Day;;;;"
+
+"110;01/01/09;New Year‰Ûªs Day;;;;"
+
+"111;19/01/09;Martin Luther King, Jr. Day;;;;"
+
+"112;16/02/09;Washington‰Ûªs Birthday;;;;"
+
+"113;25/05/09;Memorial Day;;;;"
+
+"114;03/07/09;Independence Day;;;;"
+
+"115;07/09/09;Labor Day;;;;"
+
+"116;12/10/09;Columbus Day;;;;"
+
+"117;11/11/09;Veterans Day;;;;"
+
+"118;26/11/09;Thanksgiving Day;;;;"
+
+"119;25/12/09;Christmas Day;;;;"
+
+"120;01/01/08;New Year‰Ûªs Day;;;;"
+
+"121;21/01/08;Martin Luther King, Jr. Day;;;;"
+
+"122;18/02/08;Washington‰Ûªs Birthday;;;;"
+
+"123;26/05/08;Memorial Day;;;;"
+
+"124;04/07/08;Independence Day;;;;"
+
+"125;01/09/08;Labor Day;;;;"
+
+"126;13/10/08;Columbus Day;;;;"
+
+"127;11/11/08;Veterans Day;;;;"
+
+"128;27/11/08;Thanksgiving Day;;;;"
+
+"129;25/12/08;Christmas Day;;;;"
+
+"130;01/01/07;New Year‰Ûªs Day;;;;"
+
+"131;15/01/07;Martin Luther King, Jr. Day;;;;"
+
+"132;19/02/07;Washington‰Ûªs Birthday;;;;"
+
+"133;28/05/07;Memorial Day;;;;"
+
+"134;04/07/07;Independence Day;;;;"
+
+"135;03/09/07;Labor Day;;;;"
+
+"136;08/10/07;Columbus Day;;;;"
+
+"137;11/11/07;Veterans Day;;;;"
+
+"138;22/11/07;Thanksgiving Day;;;;"
+
+"139;25/12/07;Christmas Day;;;;"
+
+"140;01/01/06;New Year‰Ûªs Day;;;;"
+
+"141;16/01/06;Martin Luther King, Jr. Day;;;;"
+
+"142;20/02/06;Washington‰Ûªs Birthday;;;;"
+
+"143;29/05/06;Memorial Day;;;;"
+
+"144;04/07/06;Independence Day;;;;"
+
+"145;04/09/06;Labor Day;;;;"
+
+"146;09/10/06;Columbus Day;;;;"
+
+"147;11/11/06;Veterans Day;;;;"
+
+"148;23/11/06;Thanksgiving Day;;;;"
+
+"149;25/12/06;Christmas Day;;;;"
+
+"150;01/01/05;New Year‰Ûªs Day;;;;"
+
+"151;17/01/05;Martin Luther King, Jr. Day;;;;"
+
+"152;21/02/05;Washington‰Ûªs Birthday;;;;"
+
+"153;30/05/05;Memorial Day;;;;"
+
+"154;04/07/05;Independence Day;;;;"
+
+"155;05/09/05;Labor Day;;;;"
+
+"156;10/10/05;Columbus Day;;;;"
+
+"157;11/11/05;Veterans Day;;;;"
+
+"158;24/11/05;Thanksgiving Day;;;;"
+
+"159;25/12/05;Christmas Day;;;;"
+
+"160;01/01/04;New Year‰Ûªs Day;;;;"
+
+"161;19/01/04;Martin Luther King, Jr. Day;;;;"
+
+"162;16/02/04;Washington‰Ûªs Birthday;;;;"
+
+"163;31/05/04;Memorial Day;;;;"
+
+"164;04/07/04;Independence Day;;;;"
+
+"165;06/09/04;Labor Day;;;;"
+
+"166;11/10/04;Columbus Day;;;;"
+
+"167;11/11/04;Veterans Day;;;;"
+
+"168;25/11/04;Thanksgiving Day;;;;"
+
+"169;25/12/04;Christmas Day;;;;"
+
+"170;01/01/03;New Year‰Ûªs Day;;;;"
+
+"171;20/01/03;Martin Luther King, Jr. Day;;;;"
+
+"172;17/02/03;Washington‰Ûªs Birthday;;;;"
+
+"173;26/05/03;Memorial Day;;;;"
+
+"174;04/07/03;Independence Day;;;;"
+
+"175;01/09/03;Labor Day;;;;"
+
+"176;13/10/03;Columbus Day;;;;"
+
+"177;11/11/03;Veterans Day;;;;"
+
+"178;27/11/03;Thanksgiving Day;;;;"
+
+"179;25/12/03;Christmas Day;;;;"
+
+"180;01/01/02;New Year‰Ûªs Day;;;;"
+
+"181;21/01/02;Martin Luther King, Jr. Day;;;;"
+
+"182;18/02/02;Washington‰Ûªs Birthday;;;;"
+
+"183;27/05/02;Memorial Day;;;;"
+
+"184;04/07/02;Independence Day;;;;"
+
+"185;02/09/02;Labor Day;;;;"
+
+"186;14/10/02;Columbus Day;;;;"
+
+"187;11/11/02;Veterans Day;;;;"
+
+"188;28/11/02;Thanksgiving Day;;;;"
+
+"189;25/12/02;Christmas Day;;;;"
+
+"190;01/01/01;New Year‰Ûªs Day;;;;"
+
+"191;15/01/01;Martin Luther King, Jr. Day;;;;"
+
+"192;19/02/01;Washington‰Ûªs Birthday;;;;"
+
+"193;28/05/01;Memorial Day;;;;"
+
+"194;04/07/01;Independence Day;;;;"
+
+"195;03/09/01;Labor Day;;;;"
+
+"196;08/10/01;Columbus Day;;;;"
+
+"197;11/11/01;Veterans Day;;;;"
+
+"198;22/11/01;Thanksgiving Day;;;;"
+
+"199;25/12/01;Christmas Day;;;;"
+
+"200;01/01/00;New Year‰Ûªs Day;;;;"
+
+"201;17/01/00;Martin Luther King, Jr. Day;;;;"
+
+"202;21/02/00;Washington‰Ûªs Birthday;;;;"
+
+"203;29/05/00;Memorial Day;;;;"
+
+"204;04/07/00;Independence Day;;;;"
+
+"205;04/09/00;Labor Day;;;;"
+
+"206;09/10/00;Columbus Day;;;;"
+
+"207;11/11/00;Veterans Day;;;;"
+
+"208;23/11/00;Thanksgiving Day;;;;"
+
+"209;25/12/00;Christmas Day;;;;"
+
+"210;01/01/99;New Year‰Ûªs Day;;;;"
+
+"211;18/01/99;Martin Luther King, Jr. Day;;;;"
+
+"212;15/02/99;Washington‰Ûªs Birthday;;;;"
+
+"213;31/05/99;Memorial Day;;;;"
+
+"214;04/07/99;Independence Day;;;;"
+
+"215;06/09/99;Labor Day;;;;"
+
+"216;11/10/99;Columbus Day;;;;"
+
+"217;11/11/99;Veterans Day;;;;"
+
+"218;25/11/99;Thanksgiving Day;;;;"
+
+"219;25/12/99;Christmas Day;;;;"
+
+"220;01/01/98;New Year‰Ûªs Day;;;;"
+
+"221;19/01/98;Martin Luther King, Jr. Day;;;;"
+
+"222;16/02/98;Washington‰Ûªs Birthday;;;;"
+
+"223;25/05/98;Memorial Day;;;;"
+
+"224;04/07/98;Independence Day;;;;"
+
+"225;07/09/98;Labor Day;;;;"
+
+"226;12/10/98;Columbus Day;;;;"
+
+"227;11/11/98;Veterans Day;;;;"
+
+"228;26/11/98;Thanksgiving Day;;;;"
+
+"229;25/12/98;Christmas Day;;;;"
+
+"230;01/01/97;New Year‰Ûªs Day;;;;"
+
+"231;20/01/97;Martin Luther King, Jr. Day;;;;"
+
+"232;17/02/97;Washington‰Ûªs Birthday;;;;"
+
+"233;26/05/97;Memorial Day;;;;"
+
+"234;04/07/97;Independence Day;;;;"
+
+"235;01/09/97;Labor Day;;;;"
+
+"236;13/10/97;Columbus Day;;;;"
+
+"237;11/11/97;Veterans Day;;;;"
+
+"238;27/11/97;Thanksgiving Day;;;;"
+
+"239;25/12/97;Christmas Day;;;;"
+
+"240;01/01/96;New Year‰Ûªs Day;;;;"
+
+"241;15/01/96;Martin Luther King, Jr. Day;;;;"
+
+"242;19/02/96;Washington‰Ûªs Birthday;;;;"
+
+"243;27/05/96;Memorial Day;;;;"
+
+"244;04/07/96;Independence Day;;;;"
+
+"245;02/09/96;Labor Day;;;;"
+
+"246;14/10/96;Columbus Day;;;;"
+
+"247;11/11/96;Veterans Day;;;;"
+
+"248;28/11/96;Thanksgiving Day;;;;"
+
+"249;25/12/96;Christmas Day;;;;"
+
+"250;01/01/95;New Year‰Ûªs Day;;;;"
+
+"251;16/01/95;Martin Luther King, Jr. Day;;;;"
+
+"252;20/02/95;Washington‰Ûªs Birthday;;;;"
+
+"253;29/05/95;Memorial Day;;;;"
+
+"254;04/07/95;Independence Day;;;;"
+
+"255;04/09/95;Labor Day;;;;"
+
+"256;09/10/95;Columbus Day;;;;"
+
+"257;11/11/95;Veterans Day;;;;"
+
+"258;23/11/95;Thanksgiving Day;;;;"
+
+"259;25/12/95;Christmas Day;;;;"
+
+"260;01/01/94;New Year‰Ûªs Day;;;;"
+
+"261;17/01/94;Martin Luther King, Jr. Day;;;;"
+
+"262;21/02/94;Washington‰Ûªs Birthday;;;;"
+
+"263;30/05/94;Memorial Day;;;;"
+
+"264;04/07/94;Independence Day;;;;"
+
+"265;05/09/94;Labor Day;;;;"
+
+"266;10/10/94;Columbus Day;;;;"
+
+"267;11/11/94;Veterans Day;;;;"
+
+"268;24/11/94;Thanksgiving Day;;;;"
+
+"269;25/12/94;Christmas Day;;;;"
+
+"270;01/01/93;New Year‰Ûªs Day;;;;"
+
+"271;18/01/93;Martin Luther King, Jr. Day;;;;"
+
+"272;15/02/93;Washington‰Ûªs Birthday;;;;"
+
+"273;31/05/93;Memorial Day;;;;"
+
+"274;04/07/93;Independence Day;;;;"
+
+"275;06/09/93;Labor Day;;;;"
+
+"276;11/10/93;Columbus Day;;;;"
+
+"277;11/11/93;Veterans Day;;;;"
+
+"278;25/11/93;Thanksgiving Day;;;;"
+
+"279;25/12/93;Christmas Day;;;;"
+
+"280;01/01/92;New Year‰Ûªs Day;;;;"
+
+"281;20/01/92;Martin Luther King, Jr. Day;;;;"
+
+"282;17/02/92;Washington‰Ûªs Birthday;;;;"
+
+"283;25/05/92;Memorial Day;;;;"
+
+"284;04/07/92;Independence Day;;;;"
+
+"285;07/09/92;Labor Day;;;;"
+
+"286;12/10/92;Columbus Day;;;;"
+
+"287;11/11/92;Veterans Day;;;;"
+
+"288;26/11/92;Thanksgiving Day;;;;"
+
+"289;25/12/92;Christmas Day;;;;"
+
+"290;01/01/91;New Year‰Ûªs Day;;;;"
+
+"291;21/01/91;Martin Luther King, Jr. Day;;;;"
+
+"292;18/02/91;Washington‰Ûªs Birthday;;;;"
+
+"293;27/05/91;Memorial Day;;;;"
+
+"294;04/07/91;Independence Day;;;;"
+
+"295;02/09/91;Labor Day;;;;"
+
+"296;14/10/91;Columbus Day;;;;"
+
+"297;11/11/91;Veterans Day;;;;"
+
+"298;28/11/91;Thanksgiving Day;;;;"
+
+"299;25/12/91;Christmas Day;;;;"
+
+"300;01/01/90;New Year‰Ûªs Day;;;;"
+
+"301;15/01/90;Martin Luther King, Jr. Day;;;;"
+
+"302;19/02/90;Washington‰Ûªs Birthday;;;;"
+
+"303;28/05/90;Memorial Day;;;;"
+
+"304;04/07/90;Independence Day;;;;"
+
+"305;03/09/90;Labor Day;;;;"
+
+"306;08/10/90;Columbus Day;;;;"
+
+"307;11/11/90;Veterans Day;;;;"
+
+"308;22/11/90;Thanksgiving Day;;;;"
+
+"309;25/12/90;Christmas Day;;;;"
+
+"310;01/01/89;New Year‰Ûªs Day;;;;"
+
+"311;16/01/89;Martin Luther King, Jr. Day;;;;"
+
+"312;20/02/89;Washington‰Ûªs Birthday;;;;"
+
+"313;29/05/89;Memorial Day;;;;"
+
+"314;04/07/89;Independence Day;;;;"
+
+"315;04/09/89;Labor Day;;;;"
+
+"316;09/10/89;Columbus Day;;;;"
+
+"317;11/11/89;Veterans Day;;;;"
+
+"318;23/11/89;Thanksgiving Day;;;;"
+
+"319;25/12/89;Christmas Day;;;;"
+
+"320;01/01/88;New Year‰Ûªs Day;;;;"
+
+"321;18/01/88;Martin Luther King, Jr. Day;;;;"
+
+"322;15/02/88;Washington‰Ûªs Birthday;;;;"
+
+"323;30/05/88;Memorial Day;;;;"
+
+"324;04/07/88;Independence Day;;;;"
+
+"325;05/09/88;Labor Day;;;;"
+
+"326;10/10/88;Columbus Day;;;;"
+
+"327;11/11/89;Veterans Day;;;;"
+
+"328;24/11/88;Thanksgiving Day;;;;"
+
+"329;25/12/88;Christmas Day;;;;"
+
+"330;01/01/87;New Year‰Ûªs Day;;;;"
+
+"331;19/01/87;Martin Luther King, Jr. Day;;;;"
+
+"332;16/02/87;Washington‰Ûªs Birthday;;;;"
+
+"333;25/05/87;Memorial Day;;;;"
+
+"334;04/07/87;Independence Day;;;;"
+
+"335;07/09/87;Labor Day;;;;"
+
+"336;12/10/87;Columbus Day;;;;"
+
+"337;11/11/87;Veterans Day;;;;"
+
+"338;26/11/87;Thanksgiving Day;;;;"
+
+"339;25/12/87;Christmas Day;;;;"
+
+"340;01/01/86;New Year‰Ûªs Day;;;;"
+
+"341;20/01/86;Martin Luther King, Jr. Day;;;;"
+
+"342;17/02/86;Washington‰Ûªs Birthday;;;;"
+
+"343;26/05/86;Memorial Day;;;;"
+
+"344;04/07/86;Independence Day;;;;"
+
+"345;01/09/86;Labor Day;;;;"
+
+"346;13/10/86;Columbus Day;;;;"
+
+"347;11/11/86;Veterans Day;;;;"
+
+"348;27/11/86;Thanksgiving Day;;;;"
+
+"349;25/12/86;Christmas Day;;;;"
+
+"350;01/01/85;New Year‰Ûªs Day;;;;"
+
+"351;21/01/85;Martin Luther King, Jr. Day;;;;"
+
+"352;18/02/85;Washington‰Ûªs Birthday;;;;"
+
+"353;27/05/85;Memorial Day;;;;"
+
+"354;04/07/85;Independence Day;;;;"
+
+"355;02/09/85;Labor Day;;;;"
+
+"356;14/10/85;Columbus Day;;;;"
+
+"357;11/11/85;Veterans Day;;;;"
+
+"358;28/11/85;Thanksgiving Day;;;;"
+
+"359;25/12/85;Christmas Day;;;;"
+
+"360;01/01/84;New Year‰Ûªs Day;;;;"
+
+"361;20/02/84;Washington‰Ûªs Birthday;;;;"
+
+"362;28/05/84;Memorial Day;;;;"
+
+"363;04/07/84;Independence Day;;;;"
+
+"364;03/09/84;Labor Day;;;;"
+
+"365;08/10/84;Columbus Day;;;;"
+
+"366;11/11/84;Veterans Day;;;;"
+
+"367;22/11/84;Thanksgiving Day;;;;"
+
+"368;25/12/84;Christmas Day;;;;"
+
+"369;01/01/83;New Year‰Ûªs Day;;;;"
+
+"370;21/02/83;Washington‰Ûªs Birthday;;;;"
+
+"371;30/05/83;Memorial Day;;;;"
+
+"372;04/07/83;Independence Day;;;;"
+
+"373;05/09/83;Labor Day;;;;"
+
+"374;10/10/83;Columbus Day;;;;"
+
+"375;11/11/83;Veterans Day;;;;"
+
+"376;24/11/83;Thanksgiving Day;;;;"
+
+"377;25/12/83;Christmas Day;;;;"
+
+"378;01/01/82;New Year‰Ûªs Day;;;;"
+
+"379;15/02/82;Washington‰Ûªs Birthday;;;;"
+
+"380;31/05/82;Memorial Day;;;;"
+
+"381;04/07/82;Independence Day;;;;"
+
+"382;06/09/82;Labor Day;;;;"
+
+"383;11/10/82;Columbus Day;;;;"
+
+"384;11/11/82;Veterans Day;;;;"
+
+"385;25/11/82;Thanksgiving Day;;;;"
+
+"386;25/12/82;Christmas Day;;;;"
+
+"387;01/01/81;New Year‰Ûªs Day;;;;"
+
+"388;16/02/81;Washington‰Ûªs Birthday;;;;"
+
+"389;25/05/81;Memorial Day;;;;"
+
+"390;04/07/81;Independence Day;;;;"
+
+"391;07/09/81;Labor Day;;;;"
+
+"392;12/10/81;Columbus Day;;;;"
+
+"393;11/11/81;Veterans Day;;;;"
+
+"394;26/11/81;Thanksgiving Day;;;;"
+
+"395;25/12/81;Christmas Day;;;;"
+
+"396;01/01/80;New Year‰Ûªs Day;;;;"
+
+"397;18/02/80;Washington‰Ûªs Birthday;;;;"
+
+"398;26/05/80;Memorial Day;;;;"
+
+"399;04/07/80;Independence Day;;;;"
+
+"400;01/09/80;Labor Day;;;;"
+
+"401;13/10/80;Columbus Day;;;;"
+
+"402;11/11/80;Veterans Day;;;;"
+
+"403;27/11/80;Thanksgiving Day;;;;"
+
+"404;25/12/80;Christmas Day;;;;"
+
+"405;01/01/79;New Year‰Ûªs Day;;;;"
+
+"406;19/02/79;Washington‰Ûªs Birthday;;;;"
+
+"407;28/05/79;Memorial Day;;;;"
+
+"408;04/07/79;Independence Day;;;;"
+
+"409;03/09/79;Labor Day;;;;"
+
+"410;08/10/79;Columbus Day;;;;"
+
+"411;11/11/79;Veterans Day;;;;"
+
+"412;22/11/79;Thanksgiving Day;;;;"
+
+"413;25/12/79;Christmas Day;;;;"
+
+"414;01/01/78;New Year‰Ûªs Day;;;;"
+
+"415;20/02/78;Washington‰Ûªs Birthday;;;;"
+
+"416;29/05/78;Memorial Day;;;;"
+
+"417;04/07/78;Independence Day;;;;"
+
+"418;04/09/78;Labor Day;;;;"
+
+"419;09/10/78;Columbus Day;;;;"
+
+"420;11/11/78;Veterans Day;;;;"
+
+"421;23/11/78;Thanksgiving Day;;;;"
+
+"422;25/12/78;Christmas Day;;;;"
+
+"423;01/01/77;New Year‰Ûªs Day;;;;"
+
+"424;21/02/77;Washington‰Ûªs Birthday;;;;"
+
+"425;30/05/77;Memorial Day;;;;"
+
+"426;04/07/77;Independence Day;;;;"
+
+"427;05/09/77;Labor Day;;;;"
+
+"428;10/10/77;Columbus Day;;;;"
+
+"429;11/11/77;Veterans Day;;;;"
+
+"430;24/11/77;Thanksgiving Day;;;;"
+
+"431;25/12/77;Christmas Day;;;;"
+
+"432;01/01/76;New Year‰Ûªs Day;;;;"
+
+"433;16/02/76;Washington‰Ûªs Birthday;;;;"
+
+"434;31/05/76;Memorial Day;;;;"
+
+"435;04/07/76;Independence Day;;;;"
+
+"436;06/09/76;Labor Day;;;;"
+
+"437;11/10/76;Columbus Day;;;;"
+
+"438;11/11/76;Veterans Day;;;;"
+
+"439;25/11/76;Thanksgiving Day;;;;"
+
+"440;25/12/76;Christmas Day;;;;"
+
+"441;01/01/75;New Year‰Ûªs Day;;;;"
+
+"442;17/02/75;Washington‰Ûªs Birthday;;;;"
+
+"443;26/05/75;Memorial Day;;;;"
+
+"444;04/07/75;Independence Day;;;;"
+
+"445;01/09/75;Labor Day;;;;"
+
+"446;13/10/75;Columbus Day;;;;"
+
+"447;11/11/75;Veterans Day;;;;"
+
+"448;27/11/75;Thanksgiving Day;;;;"
+
+"449;25/12/75;Christmas Day;;;;"
+
+"450;01/01/74;New Year‰Ûªs Day;;;;"
+
+"451;18/02/74;Washington‰Ûªs Birthday;;;;"
+
+"452;27/05/74;Memorial Day;;;;"
+
+"453;04/07/74;Independence Day;;;;"
+
+"454;02/09/74;Labor Day;;;;"
+
+"455;14/10/74;Columbus Day;;;;"
+
+"456;11/11/74;Veterans Day;;;;"
+
+"457;28/11/74;Thanksgiving Day;;;;"
+
+"458;25/12/74;Christmas Day;;;;"
+
+"459;01/01/73;New Year‰Ûªs Day;;;;"
+
+"460;19/02/73;Washington‰Ûªs Birthday;;;;"
+
+"461;28/05/73;Memorial Day;;;;"
+
+"462;04/07/73;Independence Day;;;;"
+
+"463;03/09/73;Labor Day;;;;"
+
+"464;08/10/73;Columbus Day;;;;"
+
+"465;11/11/73;Veterans Day;;;;"
+
+"466;22/11/73;Thanksgiving Day;;;;"
+
+"467;25/12/73;Christmas Day;;;;"
+
+"468;01/01/72;New Year‰Ûªs Day;;;;"
+
+"469;21/02/72;Washington‰Ûªs Birthday;;;;"
+
+"470;29/05/72;Memorial Day;;;;"
+
+"471;04/07/72;Independence Day;;;;"
+
+"472;04/09/72;Labor Day;;;;"
+
+"473;09/10/72;Columbus Day;;;;"
+
+"474;11/11/72;Veterans Day;;;;"
+
+"475;23/11/72;Thanksgiving Day;;;;"
+
+"476;25/12/72;Christmas Day;;;;"
+
+"477;01/01/66;New Year‰Ûªs Day;;;;"
+
+"478;22/02/66;Washington‰Ûªs Birthday;;;;"
+
+"479;04/07/66;Independence Day;;;;"
+
+"480;05/09/66;Labor Day;;;;"
+
+"481;12/10/66;Columbus Day;;;;"
+
+"482;11/11/66;Veterans Day;;;;"
+
+"483;24/11/66;Thanksgiving Day;;;;"
+
+"484;25/12/66;Christmas Day;;;;"
